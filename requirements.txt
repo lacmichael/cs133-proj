@@ -7,4 +7,4 @@ matplotlib
 seaborn
 scikit-learn
 ipykernel
-
+nbformat>=4.2.0
